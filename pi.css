@@ -1,0 +1,19 @@
+body{
+    
+    background-color:azure;
+/*    background-image: url(img_5345.jpg)*/
+    background-position: center;
+    border: solid;
+    
+}
+
+h3{
+    font-size: 50px;
+    color:darkorchid;
+    font-family: arial;
+   
+  border: solid;
+    border-radius: 10px;
+    
+    
+}
